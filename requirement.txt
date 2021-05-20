@@ -2,3 +2,5 @@ this is chat application
 imoji
 type option
 colors
+dark mode
+video option
